@@ -1,0 +1,81 @@
+.slider h3,
+.slider h5
+{
+    text-shadow: 2px 3px 3px black;
+    color: white;
+}
+.container{
+    min-height: 300px;
+}
+
+.container hr{
+    width: 300px;
+    border-top: 1px solid black;
+}
+
+section.about{
+    padding-top:50px;
+    min-height:30px;
+}
+
+
+.parallax-container{
+    height: 25%;
+}
+.container.clients h3{
+    text-shadow: 2px 1px 3px black;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: .5 !important;
+}
+
+.clients img{
+    max-width: 300px;
+    filter: drop-shadow(1px 2px 3px black);
+}
+section.services hr{
+    width: 400px;
+}
+
+section.services, footer{
+    background: lightgrey;
+    padding: 20px 0;
+}
+.card-panel{
+    border-radius: 50px;    
+}
+
+section.services img{
+    width: 120px;
+
+}
+
+section ul li a{
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+section.profil{
+    background:white;
+
+     padding: 50px;
+}
+
+section img{
+    padding: 5px;
+}
+
+section.contact{
+    background: lightgrey   ;
+    padding: 20px;
+}
+
+.collection.with-header{
+    border-radius: 50px;
+}
+
+.footer{
+    height: 50px !important;
+}
