@@ -1,8 +1,9 @@
 .slider h3,
+.slider h2,
 .slider h5
 {
-    text-shadow: 2px 3px 3px black;
-    color: white;
+    text-shadow: 2px 3px 3px white;
+    color: black;
 }
 .container{
     min-height: 300px;
